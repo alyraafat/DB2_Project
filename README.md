@@ -9,3 +9,11 @@ The required functionalities are:
 5) creating an Octree upon demand 
 6) using the created octree(s) where appropriate(updating, deleting and selecting tuples).
 7) Using SQL parser to do the aforementioned actions using SQL statements.
+
+## Authors
+
+- [Aly Raafat](https://github.com/alyraafat)
+- [Omar Ashraf](https://github.com/OmarAshraf-02)
+- [Karim Gamaleldin](https://github.com/karimgamaleldin)
+- [Basel Farouk](https://github.com/basel68)
+- [Mostafa ElKot](https://github.com/Elkott1)
